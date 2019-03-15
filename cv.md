@@ -11,9 +11,10 @@ Programming skills:
 
     SQL(MySQL, PostgreSQL), NoSQL(MongoDB)
     Java(Spring Boot(JPA, MVC, Data))
-    JavaScript(React, Vue, Angular2), HTML5, CSS3
+    JavaScript(Angular2+, RxJS, NgRx), HTML5, CSS3
     JWT, REST, Git, Docker
-    Ubuntu, MacOS
+    Heroku, AWS, DigitalOcean
+    Ubuntu(Desktop, Server), MacOS
     Idea, Atom
 
 Study:
