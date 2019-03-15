@@ -10,7 +10,7 @@ Samples of code: https://github.com/djurker21
 Programming skills:
 
     SQL(MySQL, PostgreSQL), NoSQL(MongoDB)
-    Java(Spring Boot, JPA, Hibernate)
+    Java(Spring Boot(JPA, MVC, Data))
     JavaScript(React, Vue, Angular2), HTML5, CSS3
     JWT, REST, Git, Docker
     Ubuntu, MacOS
@@ -23,9 +23,9 @@ Study:
 Experience:
 
     june 2018 - december 2019 - TimeCamp(frontend), freelance rankhigher
-    2014 - 2017 - CBA.pl web hosting - Web developer. Adding features to hosting panel and admin panel. Technologies PHP, JavaScript/HTML/CSS.
-    2009 - 2014 - Freelance exchanges: Freelancehunt.com, Fl.ru, Freelance.ua, Weblancer.net, Freelancer.com, Freelancermap.com. PHP(Laravel), RoR, JavaScript(Angular, Angular2+, ReactJS)
-    
+    2016 - 2017 - CBA.pl web hosting - Web developer. Adding features to hosting panel and admin panel. Technologies PHP, JavaScript/HTML/CSS.
+    2009 - 2016 - Freelance exchanges: Freelancehunt.com, Fl.ru, Freelance.ua, Weblancer.net, Freelancer.com, Freelancermap.com. PHP(Laravel), RoR, JavaScript(Angular, Angular2+, ReactJS)
+
 
 Projects:
 
@@ -36,15 +36,15 @@ Projects:
     Project description: Google Search Console API, CTR statistics
     Responsibilities: making backend, connecting to GSC, server administration
     Technologies: Spring Boot, REST, PostgreSQL, Docker, Angular2+, HTML5/CSS3/JS, Heroku
-    
+
     2.
     Name of Employer: CPCS Sumy
     Dates of Employment: October - December 2017
     Job Title: Fullstack Developer
-    Project description: Restaurant app(Test asignment). Group of people can make orders and edit order at realtime. 
+    Project description: Restaurant app(Test asignment). Group of people can make orders and edit order at realtime.
     Responsibilities: making backend and frontend
     Technologies: Spring Boot, REST, PostgreSQL, HTML5/CSS3/JS, Heroku, WebSocket
-    
+
     3.
     Name of Employer: Appdev Academy Sumy
     Dates of Employment: October - November 2016
