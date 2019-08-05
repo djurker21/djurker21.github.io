@@ -2,7 +2,7 @@
 Software developer, Fullstack web developer
 Ukraine, Sumy
 +380669692917(WhatsApp,Viber)
-Telegram: t.me/djurker21
+Telegram: t.me/djurker
 E-mail: djurker21@gmail.com
 
 Samples of code: https://github.com/djurker21
