@@ -1,7 +1,7 @@
 ## Yurii Vydai
 Software developer, Fullstack web developer
 Ukraine, Sumy
-+380669692917(WhatsApp,Viber)
++380669692917
 Telegram: t.me/djurker
 E-mail: djurker21@gmail.com
 
@@ -9,13 +9,15 @@ Samples of code: https://github.com/djurker21
 
 Programming skills:
 
-    SQL(MySQL, PostgreSQL), NoSQL(MongoDB)
-    Java(Spring Boot(JPA, MVC, Data))
-    JavaScript(Angular2+, RxJS, NgRx), HTML5, CSS3
+    SQL(MySQL, PostgreSQL), NoSQL(MongoDB), Redis
+    Sequelize
+    NodeJS(Nats, Koa)
+    JavaScript(Angular2+, RxJS)
+    HTML5, CSS3
     JWT, REST, Git, Docker
     Heroku, AWS, DigitalOcean
     Ubuntu(Desktop, Server), MacOS
-    Idea, Atom
+
 
 Study:
 
@@ -23,10 +25,12 @@ Study:
 
 Experience:
 
-    june 2018 - december 2019 - TimeCamp(frontend), freelance rankhigher
+    October 2019 - now - collaborator.biz e-learning system(Koajs, Angular2, docker, AWS)
+    december 2018 - october 2019 - Drbanking (Java ee, primefaces, mysql), Assetminder (Java ee, jquery, mysql), Zimit(Nodejs, angular, docker, elastic search, postgresql), Cara ui(Extjs), Wabel(PHP, Angular2, Docker)
+    june 2018 - december 2018 - TimeCamp(frontend), freelance rankhigher
     2016 - 2017 - CBA.pl web hosting - Web developer. Adding features to hosting panel and admin panel. Technologies PHP, JavaScript/HTML/CSS.
-    2009 - 2016 - Freelance exchanges: Freelancehunt.com, Fl.ru, Freelance.ua, Weblancer.net, Freelancer.com, Freelancermap.com. PHP(Laravel), RoR, JavaScript(Angular, Angular2+, ReactJS)
-
+    2009 - 2016 - Freelance exchanges: Freelancehunt.com, Fl.ru, Freelance.ua, Weblancer.net, Freelancer.com, Freelancermap.com. Was mostly fixing something, doing support. Used technologies: 
+    PHP(Laravel), RoR, JavaScript(Angular, Angular2+, ReactJS), MySQL, Postgres, MongoDB
 
 Projects:
 
@@ -57,8 +61,7 @@ Projects:
 Languages:
 
     Russian, Ukrainian - native
-    English - talking, writing, reading(almost native)
-    Polish, Arabic - basic
+    English - fluent
 
 Hobbies:
 
