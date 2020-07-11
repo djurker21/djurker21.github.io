@@ -1,8 +1,7 @@
 ## Yurii Vydai
 Software developer, Fullstack web developer
 Ukraine, Sumy
-+380669692917
-Telegram: t.me/djurker
++380501497835
 E-mail: djurker21@gmail.com
 
 Samples of code: https://github.com/djurker21
