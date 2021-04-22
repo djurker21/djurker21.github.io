@@ -13,7 +13,7 @@ Programming skills:
     Sequelize, TypeORM
     NodeJS(Koajs, Express, Nestjs)
     WebSocket(Nats, SocketIO)
-    JavaScript(Angular, RxJS)
+    JavaScript, Typescript(Angular, RxJS)
     HTML5, CSS3, Sass
     JWT, REST, Git, Docker, K8s, AWS
     Ubuntu(Desktop, Server), MacOS
