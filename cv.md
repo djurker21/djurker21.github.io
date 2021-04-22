@@ -1,18 +1,20 @@
 ## Yurii Vydai
 Software developer, Fullstack web developer
 Ukraine, Sumy
-+380669692917
++380669692917(Telegram)
 E-mail: djurker21@gmail.com
 
 Samples of code: https://github.com/djurker21
 
 Programming skills:
 
-    SQL(MySQL), NoSQL(MongoDB), PostgreSQL, Redis, ElasticSearch
-    Sequelize
-    NodeJS(Koajs, Nats, WebSocket)
-    JavaScript(Angular2+, RxJS)
-    HTML5, CSS3
+    SQL(MySQL, PostgreSQL), NoSQL(MongoDB), 
+    Redis, ElasticSearch, RabbitMQ, GrayLog
+    Sequelize, TypeORM
+    NodeJS(Koajs, Express, Nestjs)
+    WebSocket(Nats, SocketIO)
+    JavaScript(Angular, RxJS)
+    HTML5, CSS3, Sass
     JWT, REST, Git, Docker, K8s, AWS
     Ubuntu(Desktop, Server), MacOS
 
