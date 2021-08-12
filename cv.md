@@ -25,7 +25,7 @@ Study:
 
 Experience:
 
-    July 2021 - NMS - goodness project(NestJs, Postgresql, Postgis, AWS, Firebase)
+    July 2021 - now - NMS - goodness project(NestJs, Postgresql, Postgis, AWS, Firebase)
     May 2021 - July 2021 - Ecreative(Nestjs, GraphQL)
     October 2020 - May 2021 - Quantixon was making crawler(Nodejs/Express, RabbitMQ, Typescript/InversifyJS)
     October 2019 - October 2020 - collaborator.biz e-learning system(Koajs, Angular2, docker, AWS)
