@@ -25,7 +25,10 @@ Study:
 
 Experience:
 
-    October 2019 - now - collaborator.biz e-learning system(Koajs, Angular2, docker, AWS)
+    July 2021 - NMS - goodness project(NestJs, Postgresql, Postgis, AWS, Firebase)
+    May 2021 - July 2021 - Ecreative(Nestjs, GraphQL)
+    October 2020 - May 2021 - Quantixon was making crawler(Nodejs/Express, RabbitMQ, Typescript/InversifyJS)
+    October 2019 - October 2020 - collaborator.biz e-learning system(Koajs, Angular2, docker, AWS)
     december 2018 - october 2019 - Drbanking (Java ee, primefaces, mysql), Assetminder (Java ee, jquery, mysql), Zimit(Nodejs, angular, docker, elastic search, postgresql), Cara ui(Extjs), Wabel(PHP, Angular2, Docker)
     june 2018 - december 2018 - TimeCamp(frontend), freelance rankhigher
     2016 - 2017 - CBA.pl web hosting - Web developer. Adding features to hosting panel and admin panel. Technologies PHP, JavaScript/HTML/CSS.
